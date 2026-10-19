@@ -1,39 +1,78 @@
-# Company Profile Jonas Photo
+# Jonas Photo Company Profile
 
-Website Company Profile untuk **Jonas Photo** yang dibuat menggunakan React, Vite, dan Tailwind CSS.
+## Identitas Mahasiswa
 
-## 🚀 Fitur & Halaman
-- **Home**: Banner utama, pengenalan Jonas Photo, ringkasan layanan, dan keunggulan.
-- **About**: Profil studio foto, visi, misi, dan perjalanan sejak 1980.
-- **Services**: Daftar layanan pemotretan (Graduation, Studio Portrait, Family, dll).
-- **Gallery**: Galeri hasil karya fotografi dengan filter kategori.
-- **Contact**: Formulir kontak, informasi alamat studio, dan tautan sosial media.
+- **Nama:** Sheila Nur Ashariyani
+- **NIM:** 2505583
+- **Kelas:** C
+- **Program Studi:** Pendidikan Ilmu Komputer
+- **Mata Kuliah:** Pemrograman 
 
-## 🛠️ Teknologi yang Digunakan
-- [React 19](https://react.dev/)
-- [Vite](https://vitejs.dev/)
-- [React Router DOM v7](https://reactrouter.com/)
-- [Tailwind CSS v4](https://tailwindcss.com/)
+## Deskripsi Website
 
-## 💻 Cara Menjalankan Proyek Secara Lokal
+Jonas Photo Company Profile merupakan website company profile yang dibuat sebagai proyek akademik menggunakan React, Vite, Tailwind CSS, dan React Router.
 
-1. **Clone repositori:**
-   ```bash
-   git clone https://github.com/snurashariyani-stack/COMPANY_PROFILE_JONAS.git
-   cd COMPANY_PROFILE_JONAS
-   ```
+Website ini dirancang untuk memperkenalkan Jonas Photo, menampilkan informasi perusahaan, layanan fotografi, galeri foto, serta informasi kontak. Website memiliki lima halaman utama, yaitu Home, About, Services, Gallery, dan Contact, dengan tampilan responsif untuk berbagai ukuran layar.
 
-2. **Install dependensi:**
+## Teknologi yang Digunakan
+
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- JavaScript
+
+## Cara Menjalankan Project
+
+Pastikan Node.js sudah terinstal di komputer.
+
+1. Clone atau download repository project.
+2. Buka terminal pada folder project.
+3. Jalankan perintah berikut untuk menginstal dependencies:
+
    ```bash
    npm install
    ```
 
-3. **Jalankan development server:**
+4. Jalankan server pengembangan:
+
    ```bash
    npm run dev
    ```
 
-4. **Build untuk production:**
-   ```bash
-   npm run build
-   ```
+5. Buka alamat lokal yang muncul di terminal, biasanya `http://localhost:5173/`.
+
+## Screenshot Website
+
+### 1. Home
+![Halaman Home](home.png)
+
+Halaman utama yang menampilkan pengenalan Jonas Photo dan informasi singkat mengenai layanan perusahaan.
+
+### 2. About
+
+![Halaman About](about.png)
+
+Halaman yang berisi informasi mengenai perusahaan, sejarah, dan nilai-nilai perusahaan.
+
+### 3. Services
+
+![Halaman Services](services.png)
+
+Halaman yang menampilkan daftar layanan fotografi dan layanan terkait.
+
+### 4. Gallery
+
+![Halaman Gallery](gallery.png)
+
+Halaman galeri yang menampilkan contoh foto dan karya fotografi.
+
+### 5. Contact
+
+![Halaman Contact](contact.png)
+
+Halaman kontak yang menyediakan informasi kontak dan formulir pesan.
+
+## Catatan
+
+Website ini dibuat untuk keperluan akademik. Website merupakan rancangan company profile dan tidak menyatakan sebagai website resmi Jonas Photo.
