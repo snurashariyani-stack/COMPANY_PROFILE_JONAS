@@ -17,7 +17,7 @@ function About() {
 
       <section className="grid items-center gap-10 px-6 py-16 md:grid-cols-2 md:px-16">
         <img
-          src="https://images.unsplash.com/photo-1452587925148-ce544e77e70d?auto=format&fit=crop&w=1000&q=80"
+          src="/kamera.avif"
           alt="Kamera untuk fotografi"
           className="h-80 w-full rounded-2xl object-cover"
         />

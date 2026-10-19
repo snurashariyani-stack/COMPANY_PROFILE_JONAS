@@ -3,8 +3,7 @@ function Gallery() {
     {
       title: 'Portrait Photography',
       category: 'Portrait',
-      image:
-        'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80',
+      image: 'potrait.avif',
     },
     {
       title: 'Graduation Moments',
@@ -14,26 +13,22 @@ function Gallery() {
     {
       title: 'Family Memories',
       category: 'Family',
-      image:
-        'https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=800&q=80',
+      image:'family.avif',
     },
     {
       title: 'Wedding Moments',
       category: 'Wedding',
-      image:
-        'https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80',
+      image:'wedding.avif',
     },
     {
       title: 'Creative Photography',
       category: 'Creative',
-      image:
-        'https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?auto=format&fit=crop&w=800&q=80',
+      image:'crative.avif',
     },
     {
       title: 'Camera & Photography',
       category: 'Photography',
-      image:
-        'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80',
+      image:'camera.avif',
     },
   ]
 
