@@ -45,31 +45,31 @@ Pastikan Node.js sudah terinstal di komputer.
 ## Screenshot Website
 
 ### 1. Home
-![Halaman Home](home.png)
+![Halaman Home](home.jpg)
 
 Halaman utama yang menampilkan pengenalan Jonas Photo dan informasi singkat mengenai layanan perusahaan.
 
 ### 2. About
 
-![Halaman About](about.png)
+![Halaman About](about.jpg)
 
 Halaman yang berisi informasi mengenai perusahaan, sejarah, dan nilai-nilai perusahaan.
 
 ### 3. Services
 
-![Halaman Services](services.png)
+![Halaman Services](services.jpg)
 
 Halaman yang menampilkan daftar layanan fotografi dan layanan terkait.
 
 ### 4. Gallery
 
-![Halaman Gallery](gallery.png)
+![Halaman Gallery](gallery.jpg)
 
 Halaman galeri yang menampilkan contoh foto dan karya fotografi.
 
 ### 5. Contact
 
-![Halaman Contact](contact.png)
+![Halaman Contact](contact.jpg)
 
 Halaman kontak yang menyediakan informasi kontak dan formulir pesan.
 
